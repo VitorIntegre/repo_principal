@@ -2,3 +2,7 @@
 	path = repo_submodulo
 	url = https://github.com/VitorIntegre/repo_submodulo.git
 	branch = master
+[submodule "operacoes"]
+	path = operacoes
+	url = https://github.com/laurowrn/operacoes.git
+	branch = master
